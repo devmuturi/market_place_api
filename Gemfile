@@ -54,4 +54,4 @@ gem "fast_jsonapi", "~> 1.5"
 
 gem "kaminari", "~> 1.2"
 
-gem "rack-cors", "~> 2.0"
+gem "rack-cors", "~> 3.0"
